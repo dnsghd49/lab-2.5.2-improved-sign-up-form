@@ -26,4 +26,4 @@
 
 ## Screenshot
 
-![ScreenShot](https://github.com/dnsghd49/lab-2.5.2-improved-sign-up-form/main/assets/images/screenshot.png)
+![ScreenShot](https://github.com/dnsghd49/lab-2.5.2-improved-sign-up-form/tree/main/assets/images/screenshot.png)
